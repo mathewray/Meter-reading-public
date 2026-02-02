@@ -15,7 +15,8 @@ An example is shown below:
 
 ![Example Image](example_image_output.png)
 
-Download the models here: [pipeline_models_v4.7z](https://1drv.ms/u/c/ff40561dcb2cfa68/IQDZ49FlQKByT7yn1MJie4EWATUB3W-Y3NFspafMIWwJZiQ?e=U9boXu)
+Download the models here: [pipeline_models_v4.7z](https://1drv.ms/u/c/ff40561dcb2cfa68/IQA9EesRbLTDR4uGmhpNwEnHAaCKtN0sr62oiNIYqjWYg6c?e=FwG7zN)
+
 
 ---
 
