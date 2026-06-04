@@ -11,9 +11,15 @@ Given a single input image, the pipeline:
 
 The system is built as a modular pipeline, where detection and interpretation are handled by separate models that can be trained and tested independently. The focus of this project is on practical model design, data preparation, and building a clear inference workflow rather than on a single monolithic model.
 
-An example is shown below:
+An example digital meter is shown below:
 
 ![Example Image](example_image_output.png)
+
+An example gas meter is shown below (work in progress):
+
+![Example Image](gasmeter_repo_pic.png)
+
+
 
 Download the models here: [pipeline_models_v4.7z](https://1drv.ms/u/c/ff40561dcb2cfa68/IQA9EesRbLTDR4uGmhpNwEnHAaCKtN0sr62oiNIYqjWYg6c?e=FwG7zN)
 
